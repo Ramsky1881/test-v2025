@@ -1,0 +1,5 @@
+{
+  "name": "Veo 3 Prompt Generator",
+  "description": "A React and Tailwind CSS application to generate detailed, cinematic, and ready-to-use video prompts for Google Veo 3, with AI-assisted features for idea generation, translation, and creative suggestions.",
+  "requestFramePermissions": []
+}
